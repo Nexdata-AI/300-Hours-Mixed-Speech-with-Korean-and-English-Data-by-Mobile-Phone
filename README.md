@@ -4,7 +4,7 @@
 ## Description
 The data is recorded by Korean native speakers . The recorded text is a mixture of Korean and English sentences, covering general scenes and human-computer interaction scenes. It is rich in content and accurate in transcription. It can be used for improving the recognition effect of the speech recognition system on Korean-English mixed reading speech.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1114?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 ## Format
